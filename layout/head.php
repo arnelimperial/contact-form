@@ -15,7 +15,7 @@
     <meta name="googlebot" content="all"/>
 	  <meta name="bingbot" content="all"/>
 	  <meta name="duckduckbot" content="all"/>
-	  <link rel="canonical" href="localhost:3000">
+	  <link rel="canonical" href="https://arnelimperial.herokuapp.com">
     <link rel="shortcut icon" type="img/png" href="img/item3.png">
 	  <link rel="apple-touch-icon" href="icon.png">
 	  <link rel="icon" type="image/png" href="img/item3.png">
