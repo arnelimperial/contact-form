@@ -14,7 +14,7 @@
 				</div>
 				<div class="navbar-end navbar-menu is-mobile is-tablet contacts" id="navMenu">
 					<div class="navbar-item">
-						<a href="https://arnelimperial.bitbucket.io/index.html#main">PROJECT</a>
+						<a href="https://arnelimperial.bitbucket.io">PROJECT</a>
 					</div>
 					<div class="navbar-item">
 						<a href="https://arnelimperial.herokuapp.com">CONTACT</a>
@@ -24,7 +24,7 @@
 					</div>
 
 					<div class="navbar-item">
-						<a href="https://arnelimperial.bitbucket.io/index.html#about">ABOUT</a>
+						<a href="https://arnelimperial.bitbucket.io">ABOUT</a>
 					</div>
 
 
