@@ -17,7 +17,7 @@
 						<a href="https://arnelimperial.bitbucket.io/index.html#main">PROJECT</a>
 					</div>
 					<div class="navbar-item">
-						<a href="contact.php">CONTACT</a>
+						<a href="https://arnelimperial.herokuapp.com">CONTACT</a>
 					</div>
 					<div class="navbar-item resume resume">
 						<a href="https://arnelimperial.bitbucket.io/resume.html">résumé</a>
